@@ -1,18 +1,17 @@
-# VPN IP Estonia — Dr VPN
+# VPN IP Estonia — Fast, Secure VPN for Estonia
 
-**VPN IP Estonia** is a fast, secure and free VPN for Android. Get a **Estonia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Estonia** is a free, open-source, ad-free VPN app for Android, built for users in Estonia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Estonia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_ee_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-estonia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Estonia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Estonia, Estonia VPN, VPN IP Estonia, Estonia IP address, free VPN Estonia, buy VPN Estonia, fast VPN Estonia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Estonia, free VPN Estonia, fast VPN, VPN IP Estonia, Android VPN, unblock websites Estonia.</sub>
